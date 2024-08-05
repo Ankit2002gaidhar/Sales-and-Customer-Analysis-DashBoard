@@ -69,8 +69,3 @@ Ensures that users can easily understand and navigate the dashboards.
 ## Contact
 For any questions or suggestions, please feel free to contact me:
 - **Email**: ankitgaidhar9696@gmail.com
-- **LinkedIn**: [Ankit Gaidhar](www.linkedin.com/in/ankit-gaidhar-406a50316)
-
-## Hashtags
-
-#DataViz #Tableau #SalesAnalysis #CustomerAnalysis #DataScience #BusinessIntelligence #DataDriven #Analytics #TableauCommunity #CustomerInsights #SalesData #Dashboard #DataDesign #UXDesign
